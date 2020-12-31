@@ -1,7 +1,7 @@
 # MERN Stack Bootcamp
 
 ## Installation
-- Install MongoDB using [this link](https://www.mongodb.com/try/download/community)
+- Install MongoDB and MongoDB Compass using [this link](https://www.mongodb.com/try/download/community)
 - Install NodeJS and NPM using [this link](https://nodejs.org/en/download/)
 - Install NPX using `npm install -g npx`
 
